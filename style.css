@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+
+
+h1{
+  text-align: center;
+}
+
+.nav{
+  text-align: center;
+  background-color: green;
+}
+
+
+#bc{
+  text-align: center;
+}
+
+body{
+  background-color: #c1e1c1;
+}
+
+#bpc{
+  margin-left:30%;
+  margin-right:1%;
+  width:40vw;
+}
+.cl{
+  background-color:#fff8cc;
+}
+#R{
+  text-align: center;
+}
+
